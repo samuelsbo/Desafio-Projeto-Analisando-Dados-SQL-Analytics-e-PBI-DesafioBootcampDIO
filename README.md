@@ -46,7 +46,7 @@ Essas medidas foram aplicadas nos visuais de tabelas, gráficos de barras, gráf
 - **Produtos mais vendidos**: O produto **Paseo** representa 27,8% das vendas totais.
 - **Países com maior lucro**: França, Alemanha e Canadá estão no topo em termos de lucro.
 - **Segmentos com maior participação**: O setor governamental lidera com 65,04% do lucro total.
-- **Distribuição de Vendas ao longo do tempo**: O pico de vendas ocorreu em **dezembro de 2014**, com um total de $6,2 milhões.
+- **Distribuição de Vendas ao longo do tempo**: O pico de vendas ocorreu em **dezembro de 2014**, com um total de $12 milhões.
 
 ## Conclusões
 
